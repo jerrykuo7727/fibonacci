@@ -1,2 +1,2 @@
 # Fibonacci
-Method to calculate Fibonacci number with both iteration and recursion.
+A method to calculate Fibonacci number with both iteration and recursion.
